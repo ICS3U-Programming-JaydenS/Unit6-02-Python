@@ -4,9 +4,9 @@
 # This code finds the max value out of 10 random numbers
 
 
-import constants
-
 import random
+
+import constants
 
 
 def max_num_finder(numbers):
